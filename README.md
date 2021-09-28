@@ -2,7 +2,7 @@
 **DialogsM** - Spigot plugin which brings dialogs and quests.
 
 # All articles:
-* Getting started
+* [Getting started](https://github.com/LeonidMem/DialogsM-Wiki/wiki/Getting-started)
 * [Commands](https://github.com/LeonidMem/DialogsM-Wiki/wiki/Commands)
 * Create a new NPC
 * [Create a new Dialog](https://github.com/LeonidMem/DialogsM-Wiki/wiki/Create-a-new-Dialog)
